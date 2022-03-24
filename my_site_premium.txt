@@ -1,2 +1,0 @@
-Newuser:password
-Example:exapmepass1213

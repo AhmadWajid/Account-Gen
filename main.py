@@ -94,4 +94,4 @@ async def restock(ctx, service_type):
 bot.add_command(restock)
 bot.add_command(gen)
 bot.add_command(stock)
-bot.run('ODMzNTI2MzcyMDA1NDQ1NzAy.YHzn7Q.JOVuuDTTRvZEJOu39DkMhMB6Ds0')
+bot.run('tokenhere')
